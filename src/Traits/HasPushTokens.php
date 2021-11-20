@@ -1,6 +1,6 @@
 <?php
 
-namespace Relative\LaravelExpoPushNotifications\Traits;
+namespace Relative\LaravelExpoPushNotifications\src\Traits;
 
 use Relative\LaravelExpoPushNotifications\Models\PushToken;
 
